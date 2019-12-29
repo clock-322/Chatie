@@ -3,12 +3,12 @@ import '@firebase/firestore'
 import uuid from 'uuid'
 
 const config = {
-    apiKey: "AIzaSyDfjkZtY79VE7icdHXAKhGjZ7ZwareQ2qM",
-    authDomain: "alhaq-247008.firebaseapp.com",
-    databaseURL: "https://alhaq-247008.firebaseio.com",
-    projectId: "alhaq-247008",
-    storageBucket: "alhaq-247008.appspot.com",
-    messagingSenderId: "260887238174",
+    apiKey: "********************************",
+    authDomain: "*****************************",
+    databaseURL: "***********************************",
+    projectId: "**********",
+    storageBucket: "**********************",
+    messagingSenderId: "************",
 }
 
 class FirebaseSvc {
