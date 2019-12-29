@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Chatie",
+    "slug": "Chatie",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/chat_icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f0bd6c"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.Chatie.Chatie",
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.Chatie.Chatie"
+    }
+
+  }
+}
