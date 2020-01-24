@@ -20,7 +20,7 @@ The realtime updation of chat messages is fast and more efficient.
  * d>Authentication
  
  ## Links
- *[npm firebase](https://www.npmjs.com/package/firebase)
- *[Firebase documentation](https://firebase.google.com/docs/database)
+ * [npm firebase](https://www.npmjs.com/package/firebase)
+ * [Firebase documentation](https://firebase.google.com/docs/database)
  
  #### The whole application is still in progress so wait for version 2.0
