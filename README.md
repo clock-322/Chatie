@@ -14,10 +14,10 @@ The realtime updation of chat messages is fast and more efficient.
 ## Technology used
 * React native expo (framework)
 * Google firebase (Database)
- a> Realtime Database
- b> Cloud firestore
- c>Firebase Storage
- d>Authentication
+ * a> Realtime Database
+ * b> Cloud firestore
+ * c>Firebase Storage
+ * d>Authentication
  
  ## Links
  [npm firebase](https://www.npmjs.com/package/firebase)
