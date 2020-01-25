@@ -25,13 +25,13 @@ This is the one to one chat system mobile application built on React native expo
 
 ### 1> A server to store all the messages
 In this chat system google firebase is used to store the following data:-
-# * user details
+#### * user details
 * - Google firebase cloud firestore is used to store all the user details who is registering to this allplication
-# * Authentication
+#### * Authentication
 * - Google firebase authentication is used to authenticate the user detail.
-# * Chat details
+#### * Chat details
 * - Google firebase realtime database is used to store all chat details and realtime updation of chat going on whitin users.
-# * image storage
+#### * image storage
 * - Google firebase storage is used to store all the image data with user details.
 
 ### 2> Sinup Screen
