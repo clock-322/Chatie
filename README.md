@@ -9,7 +9,7 @@ The fastest way to build an app.With Expo tools, services, and React, you can bu
 This is the one to one chat system mobile application built on React native expo and google firebase.It is functional in both android and ios devices.To do this expo framework is used.
 
 ## How this chat system is different from other chat applications
-* - This is the first one to one chat system built on react native expo with Google Firebase till now. [You will find chat system Tutorial built on react native expo with Google Firebase](https://blog.expo.io/how-to-build-a-chat-app-with-react-native-3ef8604ebb3c) on web but you can use that method  if you want ot make a group chat system you can not experience a one to one chat like whatsapp but in my application you can experience that feature you can talk to whom you want to talk with that can be completely a stranger or can be you friend.
+* - [You will find chat system Tutorial built on react native expo with Google Firebase](https://blog.expo.io/how-to-build-a-chat-app-with-react-native-3ef8604ebb3c) on web but you can use that method  if you want ot make a group chat system you can not experience a one to one chat like whatsapp but in my application you can experience that feature you can talk to whom you want to talk with that can be completely a stranger or can be you friend.
 * - Chat system is fast due to realtime updation of chat details you are getting and posting.
 * - No heavy tool like Android Studio or any other tool is used to make this application you dont need to depend on these heavy tools which take extra efforts and this all because of react native expo.
 * - It can be used in Android devices as well as in IOS devices.
